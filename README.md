@@ -2,9 +2,11 @@
 WCF Services application for Enrollment System
 
 1.1 Cloud solution vs private ISP hosting – Which Option and Why
+
 1.2 If it is a cloud service, which one – AWS, Google App Engine or Azure? (Justify your choice)
 
 1.3 Implementation of Core Services- choices are ASP.NET Web Service, MVC, WCF service or REST? (Justify your choice)
+
 1.5 Database deployment options- current legacy system or deployed as a cloud-based database (Think scalability and Compatibility)
 
 
